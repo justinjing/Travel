@@ -1,4 +1,6 @@
 # Travel
 Fun Travel
+原文链接：https://github.com/chinsyo/FunTrip
+本人对工程进行了简单的重构和整理
 效果图
-![Travel](https://github.com/justinjing/Travel/raw/master/FunTrip/Screenshot/travel.gif)形式添加到README文件中即可，但是需要注意的是在下面的链接中需将blob改为raw。
+![Travel](https://github.com/justinjing/Travel/raw/master/FunTrip/Screenshot/travel.gif)
